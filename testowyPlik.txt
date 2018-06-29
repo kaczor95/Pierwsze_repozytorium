@@ -3,3 +3,10 @@ siemka!
 test
 
 bla bla
+
+znowu cos nowego
+
+i znowu cos dodalem
+ 
+
+kolejne linie kodu 
